@@ -1,6 +1,6 @@
 # Description of Dockerfiles
 
-The changes and improvements made on existing docker images are described here.
+The changes and improvements made on existing docker images are described below.
 
 ## improve bclc caffe
 
